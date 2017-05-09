@@ -5,15 +5,20 @@ h1 {
 p {
     font-family: Verdana;
 }
-.col-md-12 {
-     background-color: #666666;
-}
+
 body {
     background-color: #666666;
 }
 h2 {
-    color: #b2b0b0
+    color: #b2b0b0;
 }
 h3 {
-    color: #b2b0b0
+    color: #b2b0b0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.idpic {
+    width: 150px;
+    border: solid #b2b0b0 2px;
+    margin-left: -200px;
+    margin-top: 25px;
 }
